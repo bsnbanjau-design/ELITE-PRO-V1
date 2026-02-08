@@ -1,14 +1,14 @@
 {
   "name": "ELITE-PRO-V1",
   "description": "A WhatsApp Bot Created by ElitePro",
-  "logo": "https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg",
+  "logo": "https://i.postimg.cc/PJqh4Xz3/COPRONYX-COP-ESPORTS-20260207-192245.jpg",
   "keywords": ["bot", "whatsapp", "baileys", "javascript", "elitepro"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here.",
-      "value": ""
+      "value": "{"noiseKey":{"private":{"type":"Buffer","data":"qJTCfBqNd/eyKVeNnTRG2AQdy2RLEZ3DnRE5eTAE6n0="},"public":{"type":"Buffer","data":"1Ck0WW4L6vI8rs01l/5GyrVuLud7DnZjtk/asFKmxUY="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"wFKrZFUQMFstXamvOVU7l7egq2xhgEJVPq6Cts6bEUg="},"public":{"type":"Buffer","data":"wpfw3BwNpDutwBGslZWb0QP7O6Y0s8A+90tnRT2tsBA="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"YDAYuSxoT4lvyh4Us5jmLqJ4Y4C0z14hZzWjNpct1ko="},"public":{"type":"Buffer","data":"yoY/o85Ffb09jXzO56GkDdzvp9/+iYbTrR0+buukfAs="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"4HaoI8BS0v3UOjHQe64uH7K81XlUaiO5w41RkpuY0Vs="},"public":{"type":"Buffer","data":"B8AVpJtb4Uw7PpbvSYCilRAf0KlK1MUTyfMAjDvlcgs="}},"signature":{"type":"Buffer","data":"SgLawSA2W0/J2qePm51eFbqv1WQhBPZ5PCd8BwXe5zismY+PV+JdKMGvLnSf1D2BlP2phpD3CRtULBr6oYeZCg=="},"keyId":1},"registrationId":226,"advSecretKey":"Tc8J5YRyVFreXo3O2YQRBZ21YznDPGSB9sIqL/ey+So=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"registered":false,"account":{"details":"CNyowLcFEPaloMwGGAMgACgA","accountSignatureKey":"pijYZOWYHSv0Uo1uS7eWOPM9MAifKrYyrb6oKtPmUDk=","accountSignature":"ykjTXJv37UA3nT2h2YCNbUkTiVF+2tb2oStqOaQKFx+VshVEns1fGwxjVbD1cT+Pn0F9T7of61oX5eDhPZMEDg==","deviceSignature":"nJKzjxP7d0uEmxW2Gis4dp/sKSfQO6vdoViXheB86r0dBS2nk1NIC0cy7tOqlenCf/PoTaxnPAb+/oh4I765Bw=="},"me":{"id":"447463562170:19@s.whatsapp.net","lid":"219537974800514:19@lid"},"signalIdentities":[{"identifier":{"name":"447463562170:19@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BaYo2GTlmB0r9FKNbku3ljjzPTAInyq2Mq2+qCrT5lA5"}}],"platform":"android","routingInfo":{"type":"Buffer","data":"CAgIDQgF"},"lastAccountSyncTimestamp":1770525443,"lastPropHash":"3R9Z39","myAppStateKeyId":"AAAAAC7t"}"
     },
     "PREFIX": {
       "description": "Bot command prefix (example: ., !, #)",
@@ -20,11 +20,11 @@
     },
     "OWNER_NAME": {
       "description": "Owner's display name.",
-      "value": "ElitePro"
+      "value": "NABEEL"
     },
     "BOT_NAME": {
       "description": "Bot display name.",
-      "value": "ELITE-PRO-V1"
+      "value": "COPRONYX-BOT"
     },
     "AUTO_RECORDING": {
       "description": "Enable auto-recording simulation (true or false).",
